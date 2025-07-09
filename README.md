@@ -3,7 +3,7 @@
 Aplicativo estilo Mercado!
 
 
-### Fotos
+### ✨ Fotos
 <img src="https://github.com/Widle-Studio/Grocery-App/blob/Grocery-App/Grocery%20App/grocery-app.png" alt="Flutter Grocery Shopping App Video Animation">
 
 ### Features
@@ -15,7 +15,7 @@ Clean Arquitecture
 ### Pacotes
 
 
-### Gerenciamento
+### Gerenciamento de Estado
 
 GetX
 
